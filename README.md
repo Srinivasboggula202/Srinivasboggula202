@@ -44,6 +44,8 @@
 🎓 **B.Tech in CSE (AI & ML)**  
 JNTUH UCE Manthani (2021–2025) – CGPA: 7.41
 
+📜 **Deloitte Australia Data Analytics Virtual Internship** – Forage (2025) - Data Analytics
+
 📜 **Certified in Web Development** – Internshala Trainings (June 2024) – Scored: 84%
 
 🎓 **Intermediate (MPC)** – Sri Gayatri Junior College – 97%  
