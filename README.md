@@ -66,51 +66,6 @@ Python, LangChain, ChromaDB, Streamlit, Groq API, Prompt Engineering
 
 ---
 
-## 📈 Stock Trend Analyzer
-
-Machine Learning application that analyzes, predicts, and visualizes stock market trends.
-
-### Technologies:
-Python, Pandas, Scikit-Learn, Matplotlib, Streamlit
-
----
-
-## 🍽️ TasteTrack
-
-Recipe recommendation platform with search, filtering, and random recipe discovery functionality.
-
-### Technologies:
-React.js, Vite, Tailwind CSS, REST APIs, TheMealDB API
-
----
-
-## 👤 Facial Recognition Attendance System
-
-Real-time attendance tracking system using facial recognition technology.
-
-### Technologies:
-Python, OpenCV, Machine Learning
-
----
-
-## 🔒 InvisiData – Steganography Tool
-
-Secure application for hiding sensitive information inside images.
-
-### Technologies:
-Python, Image Processing, Security Concepts
-
----
-
-## 💬 AI Chatbot
-
-Context-aware chatbot developed using NLP and custom-trained datasets.
-
-### Technologies:
-Python, NLP, Machine Learning
-
----
-
 # 🎓 Education
 
 ### B.Tech – Computer Science Engineering (AI & ML)
@@ -129,12 +84,6 @@ JNTUH University College of Engineering, Manthani
 📊 Deloitte Australia Data Analytics Virtual Internship – Forage
 
 🌐 Web Development Certification – Internshala Trainings (Score: 84%)
-
-🤖 Salesforce AI Associate *(Add if certified)*
-
-☁️ Salesforce Administrator *(Add if certified)*
-
-🚀 Salesforce Agentforce Specialist *(Add if certified)*
 
 ---
 
